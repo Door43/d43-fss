@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fss:home|Door43 (fss)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fss|d43-fss repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fss/archive/master.zip|d43-fss.zip]]
+
+**Recent Changes**
+{{changes>ns = fss}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fss|Ethnologue data]]
+
